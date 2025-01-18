@@ -12,8 +12,8 @@ export default [
       globals: globals.node,
       parser: tsParser,
     },
-    files: ["**/*.ts", "**/*.mts"],
-    ignores: ["dist/**/*", "dist_*/**/*", "node_modules/**/*"],
+    files: ["**/*.ts"],
+    ignores: ["node_modules/**/*"],
     rules: {
       "import/order": "error",
     },
