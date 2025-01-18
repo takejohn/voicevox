@@ -16,6 +16,7 @@
     "fmt": "eslint --ext .ts,.mts tests --fix"
   },
   "devDependencies": {
+    "@types/node": "22.10.7",
     "@typescript-eslint/parser": "7.15.0",
     "@vue/eslint-config-typescript": "13.0.0",
     "eslint": "8.57.0",
