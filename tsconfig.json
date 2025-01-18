@@ -5,8 +5,6 @@
     "strict": true,
     "esModuleInterop": true,
   },
-  "include": [
-    "tests/**/*.mts"
-  ],
+  "include": ["*.mts"],
   "exclude": ["node_modules"]
 }
