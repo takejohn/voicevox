@@ -13,7 +13,7 @@
     "npm": "10.9.0"
   },
   "scripts": {
-    "fmt": "eslint --ext .js,.vue,.ts,.mts tests --fix"
+    "fmt": "eslint --ext .ts,.mts tests --fix"
   },
   "devDependencies": {
     "@typescript-eslint/parser": "7.15.0",
