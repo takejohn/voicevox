@@ -13,7 +13,7 @@
     "npm": "10.9.0"
   },
   "scripts": {
-    "fmt": "eslint --ext .mts . --fix"
+    "fmt": "eslint --ext .ts,.mts . --fix"
   },
   "devDependencies": {
     "@types/node": "22.10.7",
